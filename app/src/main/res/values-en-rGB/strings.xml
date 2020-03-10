@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">HWAndroid 9.1v2</string>
+    <string name="ok">OK</string>
+    <string name="hello_my_friend">Hello My Friend</string>
+    <string name="languages">Choose a language</string>
+    <string name="themes">Choose a color</string>
+
+    <string-array name="spinnerLanguages">
+        <item>Russian</item>
+        <item>English</item>
+    </string-array>
+
+    <string-array name="spinnerThemes">
+        <item>Black</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+</resources>
